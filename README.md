@@ -1,4 +1,4 @@
-# Excel-Bike-Purchasers-Analysis
+# Excel-Bike-Buyers-Analysis
 
 ## Table of Contents
 
@@ -62,5 +62,5 @@ The recommendations from this analysis are summarized as follows;
 - Collaborate with companies to provide bikes as an alternative source of commute to its staff at affordable prices and with discounts for bulk purchases
 
 ## Limitations
-There wasn't enough data provided on the bikes to provide even more detailed insights on the customers data e.g types of bikes purchased, prices of bikes.
+There was limited data provided on the bikes to provide even more detailed insights on the bike buyers data e.g types of bikes purchased, prices of bikes.
 
