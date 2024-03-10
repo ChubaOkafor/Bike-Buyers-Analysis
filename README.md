@@ -18,7 +18,7 @@
 This data analysis projects aims to provide insights on the various individuals based on whether or not they purchased a bike. By analyzing these individuals based on age, gender, occupation, education, region etc, we seek to identify the various customer segments of bike purchasers and gain a deeper understanding of these segments in order to boost bike sales. The project also aims to understand segments that are not likely to purchase bikes.
 
 ## Data Sources
-Bike Buyers Data: The main dataset used for this analysis is the "bike_buyers.xlxs" file, containing detailed information about the individuals. This dataset contains information on a 1,026 individuals using their unique ID numbers and providing details on their income, marital status, education, region, age, whether they purchased a bike or not etc.
+Bike Buyers Data: The main dataset used for this analysis is the "bike_buyers.xlsx" file, containing detailed information about the individuals. This dataset contains information on a 1,026 individuals using their unique ID numbers and providing details on their income, marital status, education, region, age, whether they purchased a bike or not etc.
 
 ## Tools Used
 Excel - Data Cleaning and Preparation, Exploratory Data Analysis and Data Visualisation
