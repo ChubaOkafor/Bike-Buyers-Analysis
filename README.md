@@ -21,7 +21,7 @@ This data analysis projects aims to provide insights on the various individuals 
 Bike Buyers Data: The main dataset used for this analysis is the "bike_buyers.xlsx" file, containing detailed information about the individuals. This dataset contains information on a 1,026 individuals using their unique ID numbers and providing details on their income, marital status, education, region, age, whether they purchased a bike or not etc.
 
 ## Tools Used
-Excel - Data Cleaning and Preparation, Exploratory Data Analysis and Data Visualisation
+Microsoft Excel - Data Cleaning and Preparation, Exploratory Data Analysis and Data Visualisation
 
 ## Data Cleaning and Preparation
 The data cleaning and preparation phase was done using a variety of features such as; Find and Replace, If functions and the duplicate finding feature in excel. The following tasks were performed using these features;
