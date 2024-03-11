@@ -1,4 +1,4 @@
-# 🚲Excel-Bike-Buyers-Analysis
+# 🚲Bike-Buyers-Analysis
 
 ## Table of Contents
 
